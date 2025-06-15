@@ -1,4 +1,4 @@
-👋 Hey, I'm Rasmus – a passionate game developer and low level graphics programmer based in Sweden.🔥
+👋 Hey, I'm Rasmus – a passionate game developer and low-level graphics programmer based in Sweden.🔥
 
 🧠 What I do most days:
 - 🎮 Game Engine Development (C/C++, DirectX, OpenGL)
