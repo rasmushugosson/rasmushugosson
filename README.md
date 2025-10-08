@@ -5,7 +5,7 @@ What I do most days 🧠:
 - 🎨 Real-time Rendering & Graphics Programming
 - 🧱 Custom Tools for Application Development
 
-Tools & Languages 🛠️:
+🛠️ Tools & Languages:
 C/C++, Java, Python, GLSL, HLSL, DirectX, OpenGL, JavaScript/TypeScript, Svelte, Git
 (But also: C#, Lua, SQL, CUDA, Vulkan, React, Vue, Godot)
 
