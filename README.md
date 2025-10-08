@@ -3,7 +3,7 @@ Hey, I'm Rasmus – A game developer and low-level graphics programmer based in 
 What I do most days 🧠:
 - 🎮 Game Engine Development (C/C++, DirectX, OpenGL)
 - 🎨 Real-time Rendering & Graphics Programming
-- 🧱 Procedural Generation, Tool development, and debugging
+- 🧱 Custom Tools for Application Development
 
 Tools & Languages 🛠️:
 C/C++, Java, Python, GLSL, HLSL, DirectX, OpenGL, JavaScript/TypeScript, Svelte, Git
